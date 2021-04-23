@@ -6,3 +6,4 @@ Second, Combination: in this step, ranked-features matrix ( ranked.mat ) is gene
       Fourth, Test: accu.m applied on test datasets   which is generated from featureset_gen.mat, to evaluate accuracy.
       Figure1 shows the implementation framework.
 ![image](https://user-images.githubusercontent.com/45941996/115833017-d094ec80-a428-11eb-9586-b6911457b28c.png)
+Fig1. The implementation framework.
